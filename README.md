@@ -11,4 +11,7 @@ Genes used in our analysis corresponding to gene ontology (GO) terms can be foun
 Genes corresponding to TCA cycle genes and top TCA co-dependencies can be found in **TCA_codependencies.xlsx** 
 
 ### Code for coessentiality analysis and visualization
-All code used can be found in **codependency.py** \
+All code used can be found in **codependency.py**. Three separate functions are provided:
+  1) Subsetting DepMap coessentiatilty data and generating correlation matrices
+  2) Generating heatmaps from correlation matrices
+  3) Generating network diagrams from correlation matrices.
