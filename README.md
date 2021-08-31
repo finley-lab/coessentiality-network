@@ -11,3 +11,4 @@ Genes used in our analysis corresponding to gene ontology (GO) terms can be foun
 Genes corresponding to TCA cycle genes and top TCA co-dependencies can be found in **TCA_codependencies.xlsx** 
 
 ### Code for coessentiality analysis and visualization
+All code used can be found in **codependency.py** \
