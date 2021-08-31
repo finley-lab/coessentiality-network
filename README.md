@@ -1,7 +1,3 @@
-# coessentiality-network
+# Metabolic coessentiality analysis and network modeling
 
-
-Testing 123
-
-
-Testing 123
+Code corresponding to genetic coessentiality analysis in [INSERT PUB HERE]. For all issues, please contact [insert email here].
