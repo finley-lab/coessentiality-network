@@ -1,9 +1,11 @@
 # Metabolic coessentiality analysis and network modeling
 
-Code corresponding to genetic coessentiality analysis in [INSERT PUB HERE]. For all issues, please contact [insert email here].
+Code corresponding to genetic coessentiality analysis in ______. For all issues, please contact finleyl@mskcc.org.
 
-[INSERT PRETTY PICTURE OF FINAL FIGURE HERE]
-
+<p float="left">
+<img src="https://user-images.githubusercontent.com/89219026/132436412-7377465d-2986-461d-a749-a13691b544a0.png" width="350">.    
+<img src=https://user-images.githubusercontent.com/89219026/132436423-dab5f635-aa87-41f0-b9fb-1d17d5eb18f3.png width="500">
+</p>
 
 ### Data availability
 DepMap essentiatility data can be downloaded from https://depmap.org/portal/download/. \
