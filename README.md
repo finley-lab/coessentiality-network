@@ -2,10 +2,7 @@
 
 Code corresponding to genetic coessentiality analysis in ______. For all issues, please contact finleyl@mskcc.org.
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/89219026/132436412-7377465d-2986-461d-a749-a13691b544a0.png" width="350">.    
-<img src=https://user-images.githubusercontent.com/89219026/132436423-dab5f635-aa87-41f0-b9fb-1d17d5eb18f3.png width="500">
-</p>
+<img src="https://user-images.githubusercontent.com/89219026/132437137-bc99a8cd-a8df-4417-be3c-c90aa81ed4ef.png">
 
 ### Data availability
 DepMap essentiatility data can be downloaded from https://depmap.org/portal/download/. \
