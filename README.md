@@ -1,6 +1,6 @@
 # Metabolic coessentiality analysis and network modeling
 
-Code corresponding to genetic coessentiality analysis in: \
+Code corresponding to genetic co-essentiality analysis in: \
 \
 Arnold, P.A., Jackson, B.T. _et al_. A non-canonical tricarboxylic acid cycle underlies cellular identity. _Nature_ (2022). https://doi.org/10.1038/s41586-022-04475-w \
 \
